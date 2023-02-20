@@ -1,0 +1,3 @@
+D:/projects/CProjects/assignments/Sorting2/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
+D:/projects/CProjects/assignments/Sorting2/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CProjects/assignments/Sorting2/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

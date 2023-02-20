@@ -1,0 +1,3 @@
+D:/projects/CProjects/assignments/Sorting2/insertionSort/cmake-build-debug/CMakeFiles/insertionSort.dir
+D:/projects/CProjects/assignments/Sorting2/insertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CProjects/assignments/Sorting2/insertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

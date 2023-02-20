@@ -1,0 +1,11 @@
+# ninja log v5
+1	290	6985975812908593	CMakeFiles/insertionSort.dir/main.c.obj	42d13570fd104b9b
+292	543	6985975815177612	insertionSort.exe	5e3686e095a26ef2
+1	91	6985976808534212	CMakeFiles/insertionSort.dir/main.c.obj	42d13570fd104b9b
+91	222	6985976809603313	insertionSort.exe	5e3686e095a26ef2
+2	128	6985976915616744	CMakeFiles/insertionSort.dir/main.c.obj	42d13570fd104b9b
+128	285	6985976917051664	insertionSort.exe	5e3686e095a26ef2
+2	139	6985977041856650	CMakeFiles/insertionSort.dir/main.c.obj	42d13570fd104b9b
+139	297	6985977043260704	insertionSort.exe	5e3686e095a26ef2
+2	134	6985977912805828	CMakeFiles/insertionSort.dir/main.c.obj	42d13570fd104b9b
+134	295	6985977914219106	insertionSort.exe	5e3686e095a26ef2
